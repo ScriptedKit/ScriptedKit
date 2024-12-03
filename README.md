@@ -1,16 +1,18 @@
-## Hi there 👋
+## A little more about me...
+	
+	
 
-<!--
-**ScriptedKit/ScriptedKit** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+  <pre>
+    <span style="color: blue;">local</span> kit = {
+      <span style="color: green;">pronouns</span> = {"he", "him"},
+      <span style="color: green;">code</span> = {"Luau"},
+      <span style="color: green;">tools</span> = {"Roblox"},
+      <span style="color: green;">techCommunities</span> = {
+        <span style="color: red;">organization</span> = "myself",
+        <span style="color: red;">position</span> = "none",
+        <span style="color: red;">mentor</span> = "myself again"
+      },
+      <span style="color: red;">challenge</span> = "learning to improve every day"
+    }
+  </pre>
+</details>
